@@ -1,0 +1,41 @@
+.wrapper{
+    width: 1000px;
+    height: auto;
+}
+.result{
+    text-align: center;
+    margin: 50px;
+}
+.result h2{
+    font-size: 50px;
+    margin-top: 20px;
+}
+.result h3{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.result h4{
+    font-size: 30px;
+    margin-top: 30px;
+}
+.result span{
+    color: blue;
+}
+.result strong{
+    color: rgb(203, 78, 78);
+}
+.wrapper a{
+    display: block;
+    background-color: #ec695da3;
+    font-size: 20px;
+    color: #fff;
+    transition: 0.3s;
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+}
+.wrapper a:hover{
+    background-color: #ec695d;
+}
