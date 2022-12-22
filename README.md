@@ -1,4 +1,4 @@
-# FindMissingPets-Android
+# Festival-Search-JSP
 2-2 project
 
 - 소개
