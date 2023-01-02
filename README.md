@@ -12,7 +12,6 @@
 - 언어
 
   Java
-  Servlet
   MySQL
 
 
