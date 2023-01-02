@@ -13,7 +13,6 @@
 
   Java
   Servlet
-  JSP
   MySQL
 
 
